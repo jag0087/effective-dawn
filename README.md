@@ -18,7 +18,7 @@ The environment consists of both Windows and Linux systems deployed within VMwar
 
 **Introduction**  
 The National Institute of Standards and Technology (NIST) provides a series of frameworks and publications that form the foundation for information security governance within both public and private sector organizations. Among these, NIST SP 800-53 Rev. 5 outlines a comprehensive catalog of security and privacy controls used to protect information systems.  
-The objective of this project is to design and deploy a controlled virtual environment that allows for the practical implementation and documentation of selected NIST SP 800-53 controls. This laboratory will replicate common enterprise infrastructure components—such as a domain controller, client systems, servers, and logging mechanisms—while maintaining manageability on a single workstation.
+The objective of this project is to design and deploy a controlled virtual environment that allows for the practical implementation and documentation of selected NIST SP 800-53 controls. This laboratory will replicate common enterprise infrastructure components. Components such as a domain controller, client systems, servers, and logging mechanisms, while maintaining manageability on a single workstation.
 
 By the end of this project, the environment will enable the user to:  
 Understand the intent and application of NIST SP 800-53 controls.  
