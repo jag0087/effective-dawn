@@ -37,12 +37,19 @@ Produce professional artifacts (SSP, POA&M, and RFI) that demonstrate applied cy
 
 
 Materials and Methods
+
 Hardware
+
 Component	Specification
+
 Host CPU	AMD Ryzen 7 9800X3D (8 Core / 16 Thread)
+
 Host Memory	64 GB DDR5 RAM
+
 Host Storage	4 TB SSD Internal (VMware and OS), 1 TB SSD SanDisk External (VMware virtual OS)
+
 Virtualization Platform	VMware Workstation Pro [Version #17.5.2]
+
 Total Allocated Lab Resources	10 vCPUs, ~24 GB RAM, ~300 GB Disk
 
 
