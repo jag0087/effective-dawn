@@ -44,3 +44,35 @@ WIN-CL,	Windows 10 Pro (Evaluation),	Domain-Joined Workstation
 UBU-APP,	Ubuntu Server 22.04, LTS	Application Server (SSH MFA + SFTP Chroot)  
 UBU-SECOPS,	Ubuntu Server 22.04, LTS	Log Aggregation / rsyslog / future Wazuh SIEM  
 Optional Device,	Android-x86 or OpenWRT,	Simulated IoT Device or Mobile Node
+
+**Methodology**
+The lab will be implemented following these key stages:  
+1. System Deployment:  
+Configure virtual machines and establish the virtual network.
+
+2. Control Implementation:  
+Apply security configurations to demonstrate conformance with selected NIST SP 800-53 controls, such as MFA enforcement, centralized logging, and account lifecycle management.
+
+3. Documentation Creation:  
+Develop an SSP outlining system boundaries and implemented controls, a POA&M listing identified weaknesses, and RFI-style evidence responses.
+
+4. Evidence Collection:  
+Capture timestamped screenshots, configuration files, and exported logs mapped to specific control IDs.
+
+5. Evaluation and Reporting:  
+Review implemented controls against baseline expectations and produce a final report summarizing results and lessons learned.
+
+**References**  
+1. NIST SP 800-53 Rev. 5: Security and Privacy Controls for Information Systems and Organizations. National Institute of Standards and Technology, 2020.  
+2. NIST SP 800-37 Rev. 2: Risk Management Framework for Information Systems and Organizations. NIST, 2018.  
+3. FedRAMP: System Security Plan (SSP) Template.  
+4. Wazuh Documentation. https://documentation.wazuh.com/  
+5. Ubuntu Server Documentation. https://ubuntu.com/server/docs  
+6. Microsoft Active Directory Documentation. https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/
+
+**Appendices**
+Appendix A: Planned VM Specifications
+
+Appendix B: Network Diagram (VMware LAN + NAT Layout)
+
+Appendix C: Control Mapping Matrix (NIST IDs → Lab Systems)
