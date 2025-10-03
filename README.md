@@ -16,7 +16,7 @@ This project establishes a virtualized cybersecurity laboratory built to align w
 The environment consists of both Windows and Linux systems deployed within VMware Workstation on a local workstation. Each component will serve as evidence of security control implementation, supported by documentation artifacts such as a System Security Plan (SSP), a Plan of Action and Milestones (POA&M), and Request for Information (RFI) response examples. The project aims to provide practical experience with control documentation, system hardening, and audit evidence collection.
 <br><br>
 
-Introduction  
+**Introduction**  
 The National Institute of Standards and Technology (NIST) provides a series of frameworks and publications that form the foundation for information security governance within both public and private sector organizations. Among these, NIST SP 800-53 Rev. 5 outlines a comprehensive catalog of security and privacy controls used to protect information systems.  
 The objective of this project is to design and deploy a controlled virtual environment that allows for the practical implementation and documentation of selected NIST SP 800-53 controls. This laboratory will replicate common enterprise infrastructure components—such as a domain controller, client systems, servers, and logging mechanisms—while maintaining manageability on a single workstation.
 
