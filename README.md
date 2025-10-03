@@ -44,8 +44,13 @@ Total Allocated Lab Resources	10 vCPUs, ~24 GB RAM, ~300 GB Disk
 
 Software
 System	Operating System	Purpose
+
 WIN-DC,	Windows Server 2022 Datacenter (Evaluation),	Domain Controller / DNS
+
 WIN-CL,	Windows 10 Pro (Evaluation),	Domain-Joined Workstation
+
 UBU-APP,	Ubuntu Server 22.04, LTS	Application Server (SSH MFA + SFTP Chroot)
+
 UBU-SECOPS,	Ubuntu Server 22.04, LTS	Log Aggregation / rsyslog / future Wazuh SIEM
+
 Optional Device,	Android-x86 or OpenWRT,	Simulated IoT Device or Mobile Node
