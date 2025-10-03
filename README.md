@@ -6,7 +6,7 @@ Building a NIST SP 800-53 Cybersecurity Framework Laboratory Environment
 Author:
 John Gardner - jag0087
 
-Independent Cybersecurity Research Lab
+**Independent Cybersecurity Research Lab**
 
 Date:
 3 October 2025
