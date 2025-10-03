@@ -43,7 +43,7 @@ Virtualization Platform	VMware Workstation Pro [Version #17.5.2]
 Total Allocated Lab Resources	10 vCPUs, ~24 GB RAM, ~300 GB Disk
 
 Software
-System	Operating System	Purpose
+System,	Operating System,	Purpose
 
 WIN-DC,	Windows Server 2022 Datacenter (Evaluation),	Domain Controller / DNS
 
