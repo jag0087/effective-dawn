@@ -73,7 +73,7 @@ Review implemented controls against baseline expectations and produce a final re
 6. Microsoft Active Directory Documentation. https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/
 <br><br>
 
-**Appendices**
+**Appendices**  
 Appendix A: Planned VM Specifications
 
 Appendix B: Network Diagram (VMware LAN + NAT Layout)
