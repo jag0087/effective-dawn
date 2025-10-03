@@ -38,13 +38,14 @@ Hardware
 Component	Specification
 Host CPU	AMD Ryzen 7 9800X3D (8 Core / 16 Thread)
 Host Memory	64 GB DDR5 RAM
-Host Storage	[Insert storage details – e.g., 2 TB NVMe SSD]
-Virtualization Platform	VMware Workstation Pro [Version #]
+Host Storage	4 TB SSD Internal (VMware and OS), 1 TB SSD SanDisk External (VMware virtual OS)
+Virtualization Platform	VMware Workstation Pro [Version #17.5.2]
 Total Allocated Lab Resources	10 vCPUs, ~24 GB RAM, ~300 GB Disk
+
 Software
 System	Operating System	Purpose
-WIN-DC	Windows Server 2022 Datacenter (Evaluation)	Domain Controller / DNS
-WIN-CL	Windows 10 Pro (Evaluation)	Domain-Joined Workstation
-UBU-APP	Ubuntu Server 22.04 LTS	Application Server (SSH MFA + SFTP Chroot)
-UBU-SECOPS	Ubuntu Server 22.04 LTS	Log Aggregation / rsyslog / future Wazuh SIEM
-Optional Device	Android-x86 or OpenWRT	Simulated IoT Device or Mobile Node
+WIN-DC,	Windows Server 2022 Datacenter (Evaluation),	Domain Controller / DNS
+WIN-CL,	Windows 10 Pro (Evaluation),	Domain-Joined Workstation
+UBU-APP,	Ubuntu Server 22.04, LTS	Application Server (SSH MFA + SFTP Chroot)
+UBU-SECOPS,	Ubuntu Server 22.04, LTS	Log Aggregation / rsyslog / future Wazuh SIEM
+Optional Device,	Android-x86 or OpenWRT,	Simulated IoT Device or Mobile Node
