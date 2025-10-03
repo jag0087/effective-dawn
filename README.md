@@ -46,7 +46,7 @@ UBU-SECOPS,	Ubuntu Server 22.04, LTS	Log Aggregation / rsyslog / future Wazuh SI
 Optional Device,	Android-x86 or OpenWRT,	Simulated IoT Device or Mobile Node
 <br><br>
 
-**Methodology**
+**Methodology**  
 The lab will be implemented following these key stages:  
 1. System Deployment:  
 Configure virtual machines and establish the virtual network.
