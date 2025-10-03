@@ -44,6 +44,7 @@ WIN-CL,	Windows 10 Pro (Evaluation),	Domain-Joined Workstation
 UBU-APP,	Ubuntu Server 22.04, LTS	Application Server (SSH MFA + SFTP Chroot)  
 UBU-SECOPS,	Ubuntu Server 22.04, LTS	Log Aggregation / rsyslog / future Wazuh SIEM  
 Optional Device,	Android-x86 or OpenWRT,	Simulated IoT Device or Mobile Node
+<br><br>
 
 **Methodology**
 The lab will be implemented following these key stages:  
@@ -61,6 +62,7 @@ Capture timestamped screenshots, configuration files, and exported logs mapped t
 
 5. Evaluation and Reporting:  
 Review implemented controls against baseline expectations and produce a final report summarizing results and lessons learned.
+<br><br>
 
 **References**  
 1. NIST SP 800-53 Rev. 5: Security and Privacy Controls for Information Systems and Organizations. National Institute of Standards and Technology, 2020.  
@@ -69,6 +71,7 @@ Review implemented controls against baseline expectations and produce a final re
 4. Wazuh Documentation. https://documentation.wazuh.com/  
 5. Ubuntu Server Documentation. https://ubuntu.com/server/docs  
 6. Microsoft Active Directory Documentation. https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/
+<br><br>
 
 **Appendices**
 Appendix A: Planned VM Specifications
