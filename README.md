@@ -11,11 +11,13 @@ Independent Cybersecurity Research Lab
 Date:
 3 October 2025
 
+
 Abstract
 
 This project establishes a virtualized cybersecurity laboratory built to align with the National Institute of Standards and Technology (NIST) Special Publication 800-53 Rev. 5 security controls and the Risk Management Framework (RMF). The goal of the lab is to simulate a small but realistic enterprise environment to demonstrate the implementation and documentation of key NIST control families, including Access Control (AC), Identification and Authentication (IA), Configuration Management (CM), Audit and Accountability (AU), and Incident Response (IR).
 
 The environment consists of both Windows and Linux systems deployed within VMware Workstation on a local workstation. Each component will serve as evidence of security control implementation, supported by documentation artifacts such as a System Security Plan (SSP), a Plan of Action and Milestones (POA&M), and Request for Information (RFI) response examples. The project aims to provide practical experience with control documentation, system hardening, and audit evidence collection.
+
 
 Introduction
 
@@ -33,6 +35,7 @@ Collect verifiable evidence to support compliance documentation.
 
 Produce professional artifacts (SSP, POA&M, and RFI) that demonstrate applied cybersecurity governance.
 
+
 Materials and Methods
 Hardware
 Component	Specification
@@ -41,6 +44,7 @@ Host Memory	64 GB DDR5 RAM
 Host Storage	4 TB SSD Internal (VMware and OS), 1 TB SSD SanDisk External (VMware virtual OS)
 Virtualization Platform	VMware Workstation Pro [Version #17.5.2]
 Total Allocated Lab Resources	10 vCPUs, ~24 GB RAM, ~300 GB Disk
+
 
 Software
 System,	Operating System,	Purpose
